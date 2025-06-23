@@ -9,7 +9,7 @@ export default function Contact() {
             Get In Touch
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Have a project in mind? Let's discuss how we can work together to bring your ideas to life.
+            Have a project in mind? Let&apos;s discuss how we can work together to bring your ideas to life.
           </p>
         </div>
 
@@ -17,12 +17,12 @@ export default function Contact() {
           <div className="space-y-8">
             <div>
               <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6">
-                Let's start a conversation
+                Let&apos;s start a conversation
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-8">
-                I'm always interested in hearing about new projects and opportunities. 
-                Whether you're a company looking to hire, or you're a fellow developer 
-                looking to collaborate, I'd love to hear from you.
+                I&apos;m always interested in hearing about new projects and opportunities. 
+                Whether you&apos;re a company looking to hire, or you&apos;re a fellow developer 
+                looking to collaborate, I&apos;d love to hear from you.
               </p>
             </div>
 

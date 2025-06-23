@@ -14,19 +14,19 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-gray-600 dark:text-gray-300">
               <p>
-                I'm a passionate full-stack developer with over 5 years of experience 
+                I&apos;m a passionate full-stack developer with over 5 years of experience 
                 creating digital solutions that bridge the gap between design and functionality. 
                 My journey started with a Computer Science degree and has evolved through 
                 continuous learning and hands-on experience.
               </p>
               <p>
                 I specialize in modern web technologies and have a keen eye for user experience. 
-                Whether it's building responsive web applications, optimizing performance, 
-                or collaborating with cross-functional teams, I'm always excited to tackle 
+                Whether it&apos;s building responsive web applications, optimizing performance, 
+                or collaborating with cross-functional teams, I&apos;m always excited to tackle 
                 new challenges.
               </p>
               <p>
-                When I'm not coding, you can find me contributing to open-source projects, 
+                When I&apos;m not coding, you can find me contributing to open-source projects, 
                 writing technical blog posts, or exploring the latest in tech and design.
               </p>
             </div>
