@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="space-y-8">
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent">
-              Hello, I'm John Doe
+              Hello, I&apos;m John Doe
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
               Full Stack Developer & UI/UX Designer
